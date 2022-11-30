@@ -1,2 +1,2 @@
-# py_blog
-This is my python journey!!
+# Python_Journey
+Hey! This is my Python Programming journey. 
