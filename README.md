@@ -1,2 +1,2 @@
 # Python_Journey
-Hey! This is my Python Programming journey. 
+Hey Geeks! This is my Python Programming Journey. 
